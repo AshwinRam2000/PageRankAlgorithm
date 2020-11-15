@@ -1,0 +1,9 @@
+target/
+test/
+.ipynb_checkpoints
+*.txt
+*.class
+*.jar
+*.war
+*.ear
+
